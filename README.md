@@ -6,7 +6,8 @@ This is a markdown previewer; built with [React](https://reactjs.org) and [Marke
 Following my pushes in most of my projects repository on github, where I always mess up with the correct link syntax, for example: *instead of using [My portfolio site](https://chigboguorji.netlify.app)*, *I always mistakenly used(the wrong mark up ) -> (My portfolio site)[https://chigboguorji.netlify.app]*; which produces unexpected results.
 
 To be able to combat this error which occur more often, and to preview my markdown files before pushing upstream - I built this previewer.
-I encountered in markdown; I was working on a project and needed to draft a well written readme, there arise a need I preview my write-ups before pushing online.
+
+Moreso, it will be of a great use to developers working on a project and needed to draft a well written docs, and to preview the write-ups before pushing online.
 
 #### Features
 
